@@ -47,12 +47,10 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 Zhiyu Jin, **Hanyang Yu**, Chen Haul, Linxiang Wang, Qiu Shen, Xun Cao
 
   <p><a href="https://github.com/Jeerrzy/wormstudio">[🗂️Project Page]</a> 
-<a href="https://github.com/Jeerrzy/wormstudio"><img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" /></a> 
-</ul>
+<a href="https://github.com/Jeerrzy/wormstudio"><img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" /></a> </p>
+
 - We studies on the challenges and existing solutions for MOT in worm crowds by building a well-designed dataset!
-</ul>
-</div>
-</div>
+
 
 
 # 🎖 Honors and Awards
