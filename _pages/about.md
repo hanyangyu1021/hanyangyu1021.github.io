@@ -28,11 +28,11 @@ redirect_from:
 I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
 
 # 🔥 News
-  <li><em>2024.06</em>: 🎉 I was awarded as Outstanding Graduate of Nanjing Universtiy</li>
-  <li><em>2024.04</em>: 🎉 HKPFS get!</li>
-  <li><em>2023.12</em>: 🎉 We won the Gold prize in National College Students Innovation and Entrepreneurship Competition!</li>
-  <li><em>2023.9</em>: 🎉 Our paper is accepted by ACM MM! </li>
-  <li><em>2022.8</em>: 🎉 We won the First prize of National College students Electronic Design Competition! </li>
+- *2024.06*: 🎉 I was awarded as Outstanding Graduate of Nanjing Universtiy.
+- *2024.04*: 🎉 HKPFS get!
+- *2023.12*: 🎉 We won the Gold prize in National College Students Innovation and Entrepreneurship Competition!
+- *2023.9*: 🎉 Our paper is accepted by ACM MM!
+- *2022.8*: 🎉 We won the First prize of National College students Electronic Design Competition! 
  
 
 # 📝 Publications 
