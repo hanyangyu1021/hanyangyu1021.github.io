@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/243011e7-90da-4f75-9ee7-6c018493d879)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,14 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I'm currently a Phd Candidate of Hong Kong University of Science and Technology(HKUST), supervised by Prof. <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=ygQznUQAAAAJ)">Ping Tan</a></strong>
+👋 I'm currently a Phd Candidate of Hong Kong University of Science and Technology(HKUST), supervised by Prof. <strong><a href="https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=en">Ping Tan</a></strong>
 
-My research interests include 3D reconstruction and 3D AIGC. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<p>🤔My research interests include 3D reconstruction and 3D AIGC. My google scholar is here <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+<p>🙋‍♂️ If you are seeking any form of <strong>academic cooperation</strong>, please feel free to email me at <a href="hanyangyu1021@gmail.com">Hanyangyu1021 AT gmail DOT com</a>.</p>
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<p>🎓 I graduated from <strong>Nanjing University with a B.S. degree in Electronic Science and Engineering</strong>.
+I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
+
+<h1 id="-news">🔥 News</h1>
+<ul>
+  <li><em>2024.06</em>: 🎉 I was awarded as Outstanding Graduate of Nanjing Universtiy</li>
+  <li><em>2024.04</em>: 🎉 HKPFS get!</li>
+  <li><em>2023.12</em>: 🎉 We won the gold prize in National College Students Innovation and Entrepreneurship Competition!</li>
+  <li><em>2023.9</em>: 🎉 Our paper is accepted by ACM MM! </li>
+</ul>
+ 
 
 # 📝 Publications 
 
