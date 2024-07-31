@@ -50,7 +50,8 @@ Zhiyu Jin, **Hanyang Yu**, Chen Haul, Linxiang Wang, Qiu Shen, Xun Cao
 <a href="https://github.com/Jeerrzy/wormstudio"><img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" /></a> </p>
 
 - We studies on the challenges and existing solutions for MOT in worm crowds by building a well-designed dataset!
-
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
