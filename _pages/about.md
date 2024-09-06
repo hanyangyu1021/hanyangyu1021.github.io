@@ -37,18 +37,29 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM 2023</div><img src='images/wormtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACM 2023</div>
+      <img src='images/wormtrack.png' alt="WormTrack" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
-[WormTrack: Dataset and Benchmark for Multi-Object Tracking in Worm Crowds]([https://dl.acm.org/doi/10.1145/3581783.3613812])
+  [WormTrack: Dataset and Benchmark for Multi-Object Tracking in Worm Crowds]([https://dl.acm.org/doi/10.1145/3581783.3613812])
 
-Zhiyu Jin, **Hanyang Yu**, Chen Haul, Linxiang Wang, Qiu Shen, Xun Cao
+  Zhiyu Jin, **Hanyang Yu**, Chen Haul, Linxiang Wang, Qiu Shen, Xun Cao
 
-  <p><a href="https://github.com/Jeerrzy/wormstudio">[🗂️Project Page]</a> 
-<a href="https://github.com/Jeerrzy/wormstudio"><img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" /></a> </p>
+  <p>
+    <a href="https://github.com/Jeerrzy/wormstudio">[🗂️Project Page]</a> 
+    <a href="https://github.com/Jeerrzy/wormstudio">
+      <img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+    </a> 
+  </p>
 
-- We studies on the challenges and existing solutions for MOT in worm crowds by building a well-designed dataset!
-
+  - We studies on the challenges and existing solutions for MOT in worm crowds by building a well-designed dataset!
+    </div>
+  </div>
 
 
 # 🎖 Honors and Awards
