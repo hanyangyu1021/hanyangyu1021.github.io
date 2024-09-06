@@ -58,7 +58,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   </p>
 
   - We studies on the challenges and existing solutions for MOT in worm crowds by building a well-designed dataset!
- </div>
+
 
 
 
