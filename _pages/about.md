@@ -77,7 +77,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   </div>
 <div class='paper-box-text' markdown="1">
 
-  [WormTrack: Dataset and Benchmark for Multi-Object Tracking in Worm Crowds]([https://dl.acm.org/doi/10.1145/3581783.3613812])
+  [WormTrack: Dataset and Benchmark for Multi-Object Tracking in Worm Crowds](https://dl.acm.org/doi/10.1145/3581783.3613812)
 <p>
   <a href="https://openreview.net/profile?id=~Zhiyu_Jin3">Zhiyu Jin</a>, 
   <strong><font color="#fc8803">Hanyang Yu</font></strong>, 
