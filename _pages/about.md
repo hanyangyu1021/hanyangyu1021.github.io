@@ -59,6 +59,8 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
     <a href="https://github.com/hanyangyu1021/LMGaussian">
       <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
     </a> 
+    <a href="https://arxiv.org/abs/2409.03456"><img src="https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square" alt="arXiv" />
+    </a>
   </p>
 
   - We aim to address sparse-view reconstruction of a 3D scene by leveraging priors from large-scale vision models. 
@@ -77,7 +79,16 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
   [WormTrack: Dataset and Benchmark for Multi-Object Tracking in Worm Crowds]([https://dl.acm.org/doi/10.1145/3581783.3613812])
 
-  Zhiyu Jin, **Hanyang Yu**, Chen Haul, Linxiang Wang, Qiu Shen, Xun Cao
+  Zhiyu Jin, 
+ <strong><font color="#fc8803">Hanyang Yu</font></strong>,  Chen Haul, Linxiang Wang, Qiu Shen, Xun Cao
+<p>
+  <a href="https://openreview.net/profile?id=~Zhiyu_Jin3">Zhiyu Jin</a>, 
+  <strong><font color="#fc8803">Hanyang Yu</font></strong>, 
+  <a href="https://openreview.net/profile?id=~Chengcheng_Huo1">Chen Haul</a>, 
+  <a href="https://openreview.net/profile?id=~Linxiang_Wang1">Linxiang Wangn</a>,
+  <a href="https://openreview.net/profile?id=~Qiu_Shen1">Qiu Shen</a>, 
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a>,
+</p>
 
   <p>
     <a href="https://github.com/Jeerrzy/wormstudio">[🗂️Project Page]</a> 
