@@ -44,9 +44,14 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
       <img src='images/lmgaussian.png' alt="WormTrack" width="100%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
-
-  [LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors]([https://arxiv.org/pdf/2409.03456])
+<div class='paper-box-text' markdown="1"
+  
+  <h1 style="font-weight: bold">
+  <a href="https://hanyangyu1021.github.io/lm-gaussian.github.io/" target="_blank">
+    <span class="gradient-text-1">LM-Gaussian</span>:
+      Boost Sparse-view 3D Gaussian Splatting with Large Model Priors
+  </a>
+</h1>
 
 <p>
   <strong><font color="#fc8803">Hanyang Yu</font></strong>, 
@@ -76,8 +81,14 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-
-  [WormTrack: Dataset and Benchmark for Multi-Object Tracking in Worm Crowds](https://dl.acm.org/doi/10.1145/3581783.3613812)
+  
+  <h1 style="font-weight: bold">
+  <a href="https://dl.acm.org/doi/10.1145/3581783.3613812" target="_blank">
+    <span class="gradient-text-1">WormTrack</span>:
+      Dataset and Benchmark for Multi-Object Tracking in Worm Crowds
+  </a>
+</h1>
+ 
 <p>
   <a href="https://openreview.net/profile?id=~Zhiyu_Jin3">Zhiyu Jin</a>, 
   <strong><font color="#fc8803">Hanyang Yu</font></strong>, 
