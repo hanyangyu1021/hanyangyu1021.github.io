@@ -36,7 +36,32 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
  
 
 # 📝 Publications 
+<!-- LM-Gaussian -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2024</div>
+      <img src='images/wormtrack.png' alt="WormTrack" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
+  [LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors]([https://arxiv.org/pdf/2409.03456])
+
+  **Hanyang Yu**, Xiaoxiao Long, Ping Tan
+
+  <p>
+    <a href="https://hanyangyu1021.github.io/lm-gaussian.github.io/">[🗂️Project Page]</a> 
+    <a href="https://github.com/hanyangyu1021/LMGaussian">
+      <img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+    </a> 
+  </p>
+
+  - We aim to address sparse-view reconstruction of a 3D scene by leveraging priors from large-scale vision models. 
+  </div>
+</div>
+
+<!-- WormTrack ACM2023 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
