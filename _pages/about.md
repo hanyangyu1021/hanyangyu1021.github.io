@@ -78,14 +78,11 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 <div class='paper-box-text' markdown="1">
 
   [WormTrack: Dataset and Benchmark for Multi-Object Tracking in Worm Crowds]([https://dl.acm.org/doi/10.1145/3581783.3613812])
-
-  Zhiyu Jin, 
- <strong><font color="#fc8803">Hanyang Yu</font></strong>,  Chen Haul, Linxiang Wang, Qiu Shen, Xun Cao
 <p>
   <a href="https://openreview.net/profile?id=~Zhiyu_Jin3">Zhiyu Jin</a>, 
   <strong><font color="#fc8803">Hanyang Yu</font></strong>, 
   <a href="https://openreview.net/profile?id=~Chengcheng_Huo1">Chen Haul</a>, 
-  <a href="https://openreview.net/profile?id=~Linxiang_Wang1">Linxiang Wangn</a>,
+  <a href="https://openreview.net/profile?id=~Linxiang_Wang1">Linxiang Wang</a>,
   <a href="https://openreview.net/profile?id=~Qiu_Shen1">Qiu Shen</a>, 
   <a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a>,
 </p>
