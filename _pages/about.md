@@ -44,9 +44,9 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
       <img src='images/lmgaussian.png' alt="WormTrack" width="100%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1"
+<div class="paper-box-text">
   
-  <h1 style="font-weight: bold">
+<h1 style="font-weight: bold">
   <a href="https://hanyangyu1021.github.io/lm-gaussian.github.io/" target="_blank">
     <span class="gradient-text-1">LM-Gaussian</span>:
       Boost Sparse-view 3D Gaussian Splatting with Large Model Priors
@@ -80,7 +80,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
       <img src='images/wormtrack.png' alt="WormTrack" width="100%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box-text">
   
   <h1 style="font-weight: bold">
   <a href="https://dl.acm.org/doi/10.1145/3581783.3613812" target="_blank">
