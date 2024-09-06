@@ -48,12 +48,16 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
   [LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors]([https://arxiv.org/pdf/2409.03456])
 
-  **Hanyang Yu**, Xiaoxiao Long, Ping Tan
+<p>
+  <strong><font color="#fc8803">Hanyang Yu</font></strong>, 
+<a href="https://www.xxlong.site/">Xiaoxiao Long†</a>, 
+<a href="https://ece.hkust.edu.hk/pingtan">Ping Tan</a>
+</p>
 
   <p>
     <a href="https://hanyangyu1021.github.io/lm-gaussian.github.io/">[🗂️Project Page]</a> 
     <a href="https://github.com/hanyangyu1021/LMGaussian">
-      <img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+      <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
     </a> 
   </p>
 
