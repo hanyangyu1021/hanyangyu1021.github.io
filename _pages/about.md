@@ -20,9 +20,9 @@ redirect_from:
 
 👋 I'm currently a Phd Candidate of Hong Kong University of Science and Technology(HKUST), supervised by Prof. <strong><a href="https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=en">Ping Tan</a></strong>
 
-🤔 My research interests include 3D reconstruction and 3D AIGC. My google scholar is here <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=rsnb8vMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+🤔 My research interests include Embodied AI and Generative AI. My google scholar is here <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=rsnb8vMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-🙋‍♂️ If you are seeking any form of <strong>academic cooperation</strong>, please feel free to email me at <a href="hanyangyu1021@gmail.com">Hanyangyu1021 AT gmail DOT com</a>.</p>
+🙋‍♂️ If you are seeking any form of <strong>academic cooperation</strong>, please feel free to email me at <a href="hyubq@connect.ust.hk">hyubq@connect.ust.hk</a>.
 
 🎓 I graduated from <strong>Nanjing University with a B.S. degree in Electronic Science and Engineering</strong>.
 I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
