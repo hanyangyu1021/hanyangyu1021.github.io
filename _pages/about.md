@@ -111,9 +111,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards 
 
 # 📖 Educations
 - *2024.08 - (now)*, PhD, ECE, The Hong Kong University of Science and Technology (HKUST), HongKong.
@@ -122,4 +120,5 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
 
 # 💻 Internships
+- *2025.08 - Now*, Tencent Robotics X Lab, Shenzhen, China
 - *2023.08 - 2023.09*, LightILLUSION, Beijing, China.
