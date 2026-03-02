@@ -41,7 +41,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <div class='paper-box-image'>
     <div>
       <div class="badge">Arxiv 2024</div>
-      <img src='images/posevla.png' alt="WormTrack" width="100%">
+      <img src='images/posevla.jpg' alt="WormTrack" width="100%">
     </div>
   </div>
 <div class="paper-box-text">
