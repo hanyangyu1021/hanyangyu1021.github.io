@@ -36,6 +36,48 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
  
 
 # 📝 Publications 
+<!-- Pose-VLA -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2024</div>
+      <img src='images/posevla.png' alt="WormTrack" width="100%">
+    </div>
+  </div>
+<div class="paper-box-text">
+  
+<h1 style="font-weight: bold">
+  <a href="https://hetolin.github.io/PoseVLA/" target="_blank">
+    <span class="gradient-text-1">LM-Gaussian</span>:
+      Universal Pose Pretraining for Generalizable Vision-Language-Action Policies
+  </a>
+</h1>
+
+<p>
+  <a href="https://hetolin.github.io/">Haitao Lin*</a>, 
+  <strong><font color="#fc8803">Hanyang Yu*</font></strong>, 
+  <a href="#">Jingshun Huang*</a>, 
+  <a href="https://cghezhang.github.io/">He Zhang</a>, 
+  <a href="https://ygling2008.github.io/">Yonggen Ling</a>, 
+  <a href="https://pingtan.people.ust.hk/index.html">Ping Tan</a>, 
+  <a href="https://scholar.google.com/citations?user=DTbhX6oAAAAJ&hl=en">Xiangyang Xue</a>, 
+  <a href="http://yanweifu.github.io/">Yanwei Fu</a>
+</p>
+
+  <p>
+    <a href="(https://hetolin.github.io/PoseVLA/">[🗂️Project Page]</a> 
+    <!-- <a href="https://github.com/hanyangyu1021/LMGaussian">
+      <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+    </a>  -->
+    <a href="https://arxiv.org/html/2602.19710v1"><img src="https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square" alt="arXiv" />
+    </a>
+  </p>
+
+  - We propose Pose-VLA, a decoupled paradigm that separates VLA training into a pre-training phase for extracting universal 3D spatial priors in a unified camera-centric space, and a post-training phase for efficient embodiment alignment within robot-specific action space. 
+  </div>
+</div>
+
+
 <!-- LM-Gaussian -->
 <div class='paper-box'>
   <div class='paper-box-image'>
