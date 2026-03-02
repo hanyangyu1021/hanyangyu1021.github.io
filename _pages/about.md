@@ -48,8 +48,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   
 <h1 style="font-weight: bold">
   <a href="https://hetolin.github.io/PoseVLA/" target="_blank">
-    <span class="gradient-text-1">LM-Gaussian</span>:
-      Universal Pose Pretraining for Generalizable Vision-Language-Action Policies
+    Universal Pose Pretraining for Generalizable Vision-Language-Action Policies
   </a>
 </h1>
 
