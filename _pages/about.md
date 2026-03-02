@@ -41,7 +41,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <div class='paper-box-image'>
     <div>
       <div class="badge">Arxiv 2024</div>
-      <img src='images/posevla.jpg' alt="WormTrack" width="100%">
+      <img src='images/teaser.jpg' alt="PoseVLA" width="100%">
     </div>
   </div>
 <div class="paper-box-text">
@@ -64,7 +64,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 </p>
 
   <p>
-    <a href="(https://hetolin.github.io/PoseVLA/">[🗂️Project Page]</a> 
+    <a href="https://hetolin.github.io/PoseVLA/">[🗂️Project Page]</a> 
     <!-- <a href="https://github.com/hanyangyu1021/LMGaussian">
       <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
     </a>  -->
