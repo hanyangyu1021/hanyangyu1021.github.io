@@ -28,6 +28,7 @@ redirect_from:
 I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
 
 # 🔥 News
+- *2026.06*: &nbsp; 🎉 Our paper is accepted by RSS 2026!
 - *2024.06*: &nbsp; 🎉 I was awarded as Outstanding Graduate of Nanjing Universtiy.
 - *2024.04*: &nbsp; 🎉 HKPFS get!
 - *2023.12*: &nbsp; 🎉 We won the Gold prize in National College Students Innovation and Entrepreneurship Competition!
@@ -40,7 +41,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2026</div>
+      <div class="badge">RSS 2026</div>
       <img src='images/teaser.jpg' alt="PoseVLA" width="100%">
     </div>
   </div>
