@@ -25,7 +25,7 @@ redirect_from:
 🙋‍♂️ If you are seeking any form of <strong>academic cooperation</strong>, please feel free to email me at <a href="hyubq@connect.ust.hk">hyubq@connect.ust.hk</a>.
 
 🎓 I graduated from <strong>Nanjing University with a B.S. degree in Electronic Science and Engineering</strong>.
-I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
+I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?user=8hZIngIAAAAJ&amp;hl=en">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
 
 # 🔥 News
 - *2026.06*: &nbsp; 🎉 Our paper is accepted by RSS 2026!
@@ -37,19 +37,56 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
  
 
 # 📝 Publications 
+<!-- MaskWAM -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <video autoplay muted loop playsinline width="100%">
+        <source src="https://hanyangyu1021.github.io/maskwam.github.io/static/videos/pink.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+<div class="paper-box-text">
+
+<h1 style="font-weight: bold">
+  <a href="https://hanyangyu1021.github.io/maskwam.github.io/" target="_blank">
+    MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models
+  </a>
+</h1>
+
+<p>
+  <strong><font color="#fc8803">Hanyang Yu<sup>‡</sup></font></strong>,
+  <a href="https://hetolin.github.io/">Haitao Lin<sup>†</sup></a>,
+  Jingbo Zhang,
+  Wenyao Zhang,
+  Chenghao Gu<sup>‡</sup>,
+  Heng Li,
+  <a href="https://pingtan.people.ust.hk/index.html">Ping Tan<sup>†</sup></a>
+</p>
+
+  <p>
+    <a href="https://hanyangyu1021.github.io/maskwam.github.io/">[🗂️Project Page]</a>
+  </p>
+
+  - We introduce MaskWAM, an object-centric world-action model that unifies mask prompting and prediction to improve spatial grounding and policy generalization.
+  </div>
+</div>
+
+
 <!-- Pose-VLA -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">RSS 2026</div>
-      <img src='images/teaser.jpg' alt="PoseVLA" width="100%">
+      <img src='images/posevla.jpg' alt="PoseVLA" width="100%">
     </div>
   </div>
 <div class="paper-box-text">
   
 <h1 style="font-weight: bold">
   <a href="https://hetolin.github.io/PoseVLA/" target="_blank">
-    Universal Pose Pretraining for Generalizable Vision-Language-Action Policies
+    PoseVLA: Universal Pose Pretraining for Generalizable Vision-Language-Action Policies
   </a>
 </h1>
 
@@ -66,6 +103,10 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
   <p>
     <a href="https://hetolin.github.io/PoseVLA/">[🗂️Project Page]</a> 
+    <a href="https://github.com/hetolin/PoseVLA">
+      <img src="https://img.shields.io/github/stars/hetolin/PoseVLA?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+    </a>
+    <a href="https://www.xiaohongshu.com/explore/6a4c8368000000001702bf58?xsec_token=ABviBX5mPNOUyhgfB2GV6DPReMOuZ3LI3iIgxzTMtLxPk=&amp;xsec_source=pc_user">[📕XHS]</a>
     <!-- <a href="https://github.com/hanyangyu1021/LMGaussian">
       <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
     </a>  -->
@@ -137,7 +178,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <a href="https://openreview.net/profile?id=~Chengcheng_Huo1">Chen Haul</a>, 
   <a href="https://openreview.net/profile?id=~Linxiang_Wang1">Linxiang Wang</a>,
   <a href="https://openreview.net/profile?id=~Qiu_Shen1">Qiu Shen</a>, 
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=9z7GPxIAAAAJ">Xun Cao</a>,
+  <a href="https://scholar.google.com/citations?user=8hZIngIAAAAJ&amp;hl=en">Xun Cao</a>,
 </p>
 
   <p>
