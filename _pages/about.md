@@ -42,7 +42,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <video autoplay muted loop playsinline width="100%">
+      <video autoplay muted loop playsinline width="100%" onloadedmetadata="this.playbackRate = 4;">
         <source src="https://hanyangyu1021.github.io/maskwam.github.io/static/videos/pink.mp4" type="video/mp4">
       </video>
     </div>
@@ -56,21 +56,26 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 </h1>
 
 <p>
-  <strong><a href="https://hanyangyu1021.github.io/"><font color="#fc8803">Hanyang Yu<sup>‡</sup></font></a></strong>,
-  <a href="https://hetolin.github.io/">Haitao Lin<sup>†</sup></a>,
+  <strong><a href="https://hanyangyu1021.github.io/"><font color="#fc8803">Hanyang Yu</font></a></strong>,
+  <a href="https://hetolin.github.io/">Haitao Lin</a>,
   <a href="https://eckertzhang.github.io/">Jingbo Zhang</a>,
   <a href="https://zhangwenyao1.github.io/">Wenyao Zhang</a>,
-  <a href="https://chenghaogu.github.io/">Chenghao Gu<sup>‡</sup></a>,
+  <a href="https://chenghaogu.github.io/">Chenghao Gu</a>,
   <a href="https://hengli.me/">Heng Li</a>,
-  <a href="https://ece.hkust.edu.hk/pingtan">Ping Tan<sup>†</sup></a>
+  <a href="https://ece.hkust.edu.hk/pingtan">Ping Tan</a>
 </p>
 
   <p>
     <a href="https://hanyangyu1021.github.io/maskwam.github.io/">[🗂️Project Page]</a>
+    <a href="https://arxiv.org/abs/2606.13515">
+      <img src="https://img.shields.io/badge/arXiv-2606.13515-b31b1b.svg?style=flat-square" alt="arXiv" />
+    </a>
     <a href="https://github.com/hanyangyu1021/maskwam">
       <img src="https://img.shields.io/github/stars/hanyangyu1021/maskwam?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
     </a>
-    <a href="https://www.xiaohongshu.com/explore/6a2ba4ec0000000035024ae6?xsec_token=ABT3qqq3dv9hnxXmebubNi6eyf98ewerr1_QbMdS8iUns=&amp;xsec_source=pc_user">[📕XHS]</a>
+    <a href="https://www.xiaohongshu.com/explore/6a2ba4ec0000000035024ae6?xsec_token=ABT3qqq3dv9hnxXmebubNi6eyf98ewerr1_QbMdS8iUns=&amp;xsec_source=pc_user" title="小红书">
+      <img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="小红书" style="height: 20px; vertical-align: middle;" />
+    </a>
   </p>
 
   - We introduce MaskWAM, an object-centric world-action model that unifies mask prompting and prediction to improve spatial grounding and policy generalization.
@@ -83,7 +88,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <div class='paper-box-image'>
     <div>
       <div class="badge">RSS 2026</div>
-      <img src='images/posevla.jpg' alt="PoseVLA" width="100%" style="aspect-ratio: 3 / 2; object-fit: cover;">
+      <img src='images/posevla.jpg' alt="PoseVLA" width="100%" style="aspect-ratio: 8 / 5; object-fit: cover;">
     </div>
   </div>
 <div class="paper-box-text">
@@ -110,7 +115,9 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
     <a href="https://github.com/hetolin/PoseVLA">
       <img src="https://img.shields.io/github/stars/hetolin/PoseVLA?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
     </a>
-    <a href="https://www.xiaohongshu.com/explore/6a4c8368000000001702bf58?xsec_token=ABviBX5mPNOUyhgfB2GV6DPReMOuZ3LI3iIgxzTMtLxPk=&amp;xsec_source=pc_user">[📕XHS]</a>
+    <a href="https://www.xiaohongshu.com/explore/6a4c8368000000001702bf58?xsec_token=ABviBX5mPNOUyhgfB2GV6DPReMOuZ3LI3iIgxzTMtLxPk=&amp;xsec_source=pc_user" title="小红书">
+      <img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="小红书" style="height: 20px; vertical-align: middle;" />
+    </a>
     <!-- <a href="https://github.com/hanyangyu1021/LMGaussian">
       <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
     </a>  -->
