@@ -56,17 +56,21 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 </h1>
 
 <p>
-  <strong><font color="#fc8803">Hanyang Yu<sup>‡</sup></font></strong>,
+  <strong><a href="https://hanyangyu1021.github.io/"><font color="#fc8803">Hanyang Yu<sup>‡</sup></font></a></strong>,
   <a href="https://hetolin.github.io/">Haitao Lin<sup>†</sup></a>,
-  Jingbo Zhang,
-  Wenyao Zhang,
-  Chenghao Gu<sup>‡</sup>,
-  Heng Li,
-  <a href="https://pingtan.people.ust.hk/index.html">Ping Tan<sup>†</sup></a>
+  <a href="https://eckertzhang.github.io/">Jingbo Zhang</a>,
+  <a href="https://zhangwenyao1.github.io/">Wenyao Zhang</a>,
+  <a href="https://chenghaogu.github.io/">Chenghao Gu<sup>‡</sup></a>,
+  <a href="https://hengli.me/">Heng Li</a>,
+  <a href="https://ece.hkust.edu.hk/pingtan">Ping Tan<sup>†</sup></a>
 </p>
 
   <p>
     <a href="https://hanyangyu1021.github.io/maskwam.github.io/">[🗂️Project Page]</a>
+    <a href="https://github.com/hanyangyu1021/maskwam">
+      <img src="https://img.shields.io/github/stars/hanyangyu1021/maskwam?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+    </a>
+    <a href="https://www.xiaohongshu.com/explore/6a2ba4ec0000000035024ae6?xsec_token=ABT3qqq3dv9hnxXmebubNi6eyf98ewerr1_QbMdS8iUns=&amp;xsec_source=pc_user">[📕XHS]</a>
   </p>
 
   - We introduce MaskWAM, an object-centric world-action model that unifies mask prompting and prediction to improve spatial grounding and policy generalization.
@@ -79,7 +83,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <div class='paper-box-image'>
     <div>
       <div class="badge">RSS 2026</div>
-      <img src='images/posevla.jpg' alt="PoseVLA" width="100%">
+      <img src='images/posevla.jpg' alt="PoseVLA" width="100%" style="aspect-ratio: 3 / 2; object-fit: cover;">
     </div>
   </div>
 <div class="paper-box-text">
