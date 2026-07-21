@@ -65,20 +65,24 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <a href="https://ece.hkust.edu.hk/pingtan">Ping Tan</a>
 </p>
 
-  <p>
-    <a href="https://hanyangyu1021.github.io/maskwam.github.io/">[🗂️Project Page]</a>
+  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
+    <a href="https://hanyangyu1021.github.io/maskwam.github.io/">
+      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
+    </a>
+    <a href="https://github.com/hanyangyu1021/maskwam">
+      <img src="https://img.shields.io/github/stars/hanyangyu1021/maskwam?label=stars&amp;logo=github&amp;color=brightgreen&amp;style=flat-square" alt="GitHub Repo Stars" />
+    </a>
+    <a href="https://www.xiaohongshu.com/explore/6a2ba4ec0000000035024ae6?xsec_token=ABT3qqq3dv9hnxXmebubNi6eyf98ewerr1_QbMdS8iUns=&amp;xsec_source=pc_user" title="小红书">
+      <span style="display: inline-flex; width: 32px; height: 20px; align-items: center; justify-content: center; background: #FF2442; border-radius: 3px; vertical-align: middle;">
+        <img src="https://cdn.simpleicons.org/xiaohongshu/FFFFFF" alt="小红书" style="height: 14px;" />
+      </span>
+    </a>
     <a href="https://arxiv.org/abs/2606.13515">
       <img src="https://img.shields.io/badge/arXiv-2606.13515-b31b1b.svg?style=flat-square" alt="arXiv" />
     </a>
-    <a href="https://github.com/hanyangyu1021/maskwam">
-      <img src="https://img.shields.io/github/stars/hanyangyu1021/maskwam?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
-    </a>
-    <a href="https://www.xiaohongshu.com/explore/6a2ba4ec0000000035024ae6?xsec_token=ABT3qqq3dv9hnxXmebubNi6eyf98ewerr1_QbMdS8iUns=&amp;xsec_source=pc_user" title="小红书">
-      <img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="小红书" style="height: 20px; vertical-align: middle;" />
-    </a>
   </p>
 
-  - We introduce MaskWAM, an object-centric world-action model that unifies mask prompting and prediction to improve spatial grounding and policy generalization.
+  - We introduce MaskWAM, an object-centric world-action model that unifies mask prompting and prediction for robust robotic manipulation. By using first-frame masks as explicit visual prompts and jointly predicting future RGB frames, masks, and actions, MaskWAM resolves language ambiguity, suppresses task-irrelevant visual distractions, and improves spatial grounding and policy generalization across simulation and real-world tasks.
   </div>
 </div>
 
@@ -110,18 +114,20 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <a href="http://yanweifu.github.io/">Yanwei Fu</a>
 </p>
 
-  <p>
-    <a href="https://hetolin.github.io/PoseVLA/">[🗂️Project Page]</a> 
+  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
+    <a href="https://hetolin.github.io/PoseVLA/">
+      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
+    </a>
     <a href="https://github.com/hetolin/PoseVLA">
-      <img src="https://img.shields.io/github/stars/hetolin/PoseVLA?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+      <img src="https://img.shields.io/github/stars/hetolin/PoseVLA?label=stars&amp;logo=github&amp;color=brightgreen&amp;style=flat-square" alt="GitHub Repo Stars" />
     </a>
     <a href="https://www.xiaohongshu.com/explore/6a4c8368000000001702bf58?xsec_token=ABviBX5mPNOUyhgfB2GV6DPReMOuZ3LI3iIgxzTMtLxPk=&amp;xsec_source=pc_user" title="小红书">
-      <img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="小红书" style="height: 20px; vertical-align: middle;" />
+      <span style="display: inline-flex; width: 32px; height: 20px; align-items: center; justify-content: center; background: #FF2442; border-radius: 3px; vertical-align: middle;">
+        <img src="https://cdn.simpleicons.org/xiaohongshu/FFFFFF" alt="小红书" style="height: 14px;" />
+      </span>
     </a>
-    <!-- <a href="https://github.com/hanyangyu1021/LMGaussian">
-      <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
-    </a>  -->
-    <a href="https://arxiv.org/html/2602.19710v1"><img src="https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square" alt="arXiv" />
+    <a href="https://arxiv.org/html/2602.19710v1">
+      <img src="https://img.shields.io/badge/arXiv-2602.19710-b31b1b.svg?style=flat-square" alt="arXiv" />
     </a>
   </p>
 
@@ -153,12 +159,15 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 <a href="https://ece.hkust.edu.hk/pingtan">Ping Tan</a>
 </p>
 
-  <p>
-    <a href="https://hanyangyu1021.github.io/lm-gaussian.github.io/">[🗂️Project Page]</a> 
+  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
+    <a href="https://hanyangyu1021.github.io/lm-gaussian.github.io/">
+      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
+    </a>
     <a href="https://github.com/hanyangyu1021/LMGaussian">
-      <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+      <img src="https://img.shields.io/github/stars/hanyangyu1021/LMGaussian?label=stars&amp;logo=github&amp;color=brightgreen&amp;style=flat-square" alt="GitHub Repo Stars" />
     </a> 
-    <a href="https://arxiv.org/abs/2409.03456"><img src="https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square" alt="arXiv" />
+    <a href="https://arxiv.org/abs/2409.03456">
+      <img src="https://img.shields.io/badge/arXiv-2409.03456-b31b1b.svg?style=flat-square" alt="arXiv" />
     </a>
   </p>
 
@@ -192,10 +201,12 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <a href="https://scholar.google.com/citations?user=8hZIngIAAAAJ&amp;hl=en">Xun Cao</a>,
 </p>
 
-  <p>
-    <a href="https://github.com/Jeerrzy/wormstudio">[🗂️Project Page]</a> 
+  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
     <a href="https://github.com/Jeerrzy/wormstudio">
-      <img src="https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&amp;logo=github&amp;color=brightgreen" alt="GitHub Repo Stars" />
+      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
+    </a>
+    <a href="https://github.com/Jeerrzy/wormstudio">
+      <img src="https://img.shields.io/github/stars/Jeerrzy/wormstudio?label=stars&amp;logo=github&amp;color=brightgreen&amp;style=flat-square" alt="GitHub Repo Stars" />
     </a> 
   </p>
 
