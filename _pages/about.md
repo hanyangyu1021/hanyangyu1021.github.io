@@ -27,7 +27,7 @@ redirect_from:
 🎓 I graduated from <strong>Nanjing University with a B.S. degree in Electronic Science and Engineering</strong>.
 I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?user=8hZIngIAAAAJ&amp;hl=en">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
 
-# 💼 Industry Experience
+# Industry Experience
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; margin: 1rem 0 2rem;">
   <div style="display: flex; align-items: center; flex-shrink: 0; width: 240px; aspect-ratio: 16 / 9; padding: 18px; box-sizing: border-box; overflow: hidden; background: #050505; border: 1px solid #d9d9d9; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, .14);">
     <img src="images/tencent_x.png" alt="Tencent Robotics X" style="display: block; width: 100%; height: auto;">
@@ -44,7 +44,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   </div>
 </div>
 
-# 🔥 News
+# News
 - *2026.06*: &nbsp; 🎉 Our paper is accepted by RSS 2026!
 - *2024.06*: &nbsp; 🎉 I was awarded as Outstanding Graduate of Nanjing Universtiy.
 - *2024.04*: &nbsp; 🎉 HKPFS get!
@@ -280,14 +280,14 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
 
 
-# 🎖 Selected Honors and Awards
+# Selected Honors and Awards
 - Outstanding Graduate of Nanjing University, 2024
 - National Gold Award, China International College Students' Innovation Competition, 2023
 - Provincial First Prize, National College Students Electronic Design Competition, 2022
 - Huawei Cup Gold Award (Top One), 2023
 - People's Scholarship · Jin Xiao Electronics Scholarship · People's Special Talent Scholarship
 
-# 📖 Educations
+# Educations
 - *2024.08 - (now)*, PhD, ECE, The Hong Kong University of Science and Technology (HKUST), HongKong.
 - *2020.09 - 2024.06*, Undergraduate, School of Electronics Science and Engineering, Nanjing University.
 - *2017.09 - 2020.06*, Jiangsu Tianyi High School, WUXI.
