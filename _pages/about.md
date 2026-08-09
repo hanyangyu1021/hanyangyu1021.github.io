@@ -102,8 +102,12 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <video autoplay muted loop playsinline width="100%" onloadedmetadata="this.playbackRate = 4;">
+      <video autoplay muted loop playsinline preload="metadata" width="100%"
+             poster="https://hanyangyu1021.github.io/maskwam.github.io/static/images/teaser.png"
+             style="aspect-ratio: 16 / 9; object-fit: cover; background: #f1f5f9;"
+             onloadedmetadata="this.playbackRate = 4;">
         <source src="https://hanyangyu1021.github.io/maskwam.github.io/static/videos/pink.mp4" type="video/mp4">
+        Your browser does not support embedded videos.
       </video>
     </div>
   </div>
