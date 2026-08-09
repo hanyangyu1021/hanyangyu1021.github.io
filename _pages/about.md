@@ -38,7 +38,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
       <em>2025.08 - Present</em>
     </p>
     <ul style="margin: 0;">
-      <li><strong>Project:</strong> VLA/WAM Pretraining for Robot Manipulation</li>
+      <li>Project: VLA/WAM Pretraining for Robot Manipulation</li>
       <li>Worked with Dr. <a href="https://hetolin.github.io/">Haitao Lin</a></li>
     </ul>
   </div>
