@@ -53,7 +53,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 - *2022.8*: &nbsp; 🎉 We won the First prize of National College students Electronic Design Competition! 
  
 
-# 📝 Publications 
+# Publications
 <!-- GeniWorld -->
 <div class='paper-box'>
   <div class='paper-box-image'>
