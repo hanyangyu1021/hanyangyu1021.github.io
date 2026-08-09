@@ -27,6 +27,12 @@ redirect_from:
 🎓 I graduated from <strong>Nanjing University with a B.S. degree in Electronic Science and Engineering</strong>.
 I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?user=8hZIngIAAAAJ&amp;hl=en">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
 
+# 💼 Industry Experience
+**Tencent Robotics X, Shenzhen, China** &nbsp; *2025.08 - Present*
+
+- **Project:** VLA/WAM Pretraining for Robot Manipulation
+- Worked with Dr. [Haitao Lin](https://hetolin.github.io/)
+
 # 🔥 News
 - *2026.06*: &nbsp; 🎉 Our paper is accepted by RSS 2026!
 - *2024.06*: &nbsp; 🎉 I was awarded as Outstanding Graduate of Nanjing Universtiy.
@@ -82,7 +88,50 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
     </a>
   </p>
 
-  - We introduce MaskWAM, an object-centric world-action model that unifies mask prompting and prediction for robust robotic manipulation. By using first-frame masks as explicit visual prompts and jointly predicting future RGB frames, masks, and actions, MaskWAM resolves language ambiguity, suppresses task-irrelevant visual distractions, and improves spatial grounding and policy generalization across simulation and real-world tasks.
+  - We introduce MaskWAM, an object-centric world-action model that uses masks as both visual prompts and prediction targets to improve spatial grounding, robustness, and policy generalization.
+  </div>
+</div>
+
+
+<!-- GeniWorld -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src="https://chenghaogu.github.io/GeniWorld/assets/figures/figure1.webp" alt="GeniWorld" width="100%">
+    </div>
+  </div>
+<div class="paper-box-text">
+
+<h1 style="font-weight: bold">
+  <a href="https://chenghaogu.github.io/GeniWorld/" target="_blank">
+    GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions
+  </a>
+</h1>
+
+<p>
+  <a href="https://chenghaogu.github.io/">Chenghao Gu</a>,
+  <strong><a href="https://hanyangyu1021.github.io/"><font color="#fc8803">Hanyang Yu</font></a></strong>,
+  <a href="https://eckertzhang.github.io/">Jingbo Zhang</a>,
+  <a href="https://hetolin.github.io/">Haitao Lin</a>,
+  <a href="https://zhangwenyao1.github.io/">Wenyao Zhang</a>,
+  Jinghe Wang,
+  Hanglei Jin,
+  Shuzhao Xie,
+  Jingyan Jiang,
+  Zhi Wang
+</p>
+
+  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
+    <a href="https://chenghaogu.github.io/GeniWorld/">
+      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
+    </a>
+    <a href="https://arxiv.org/abs/2608.06332">
+      <img src="https://img.shields.io/badge/arXiv-2608.06332-b31b1b.svg?style=flat-square" alt="arXiv" />
+    </a>
+  </p>
+
+  - We introduce GeniWorld, a generalizable interactive world model for robotic manipulation that transforms numerical actions into spatially grounded visual actions through URDF-based rendering. Its autoregressive video prediction framework enables closed-loop interaction with robot policies and human teleoperators, generalizes robustly to unseen environments, and generates diverse trajectories to improve downstream policy performance.
   </div>
 </div>
 
@@ -91,7 +140,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RSS 2026</div>
+      <div class="badge">RSS 2026 · Oral Presentation</div>
       <img src='images/posevla.jpg' alt="PoseVLA" width="100%" style="aspect-ratio: 8 / 5; object-fit: cover;">
     </div>
   </div>
@@ -216,7 +265,14 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 
 
 
-# 🎖 Honors and Awards 
+# 🎖 Selected Honors and Awards
+- Outstanding Graduate of Nanjing University, 2024
+- National Gold Award, China International College Students' Innovation Competition, 2023
+- Provincial First Prize, National College Students Electronic Design Competition, 2022
+- Huawei Cup Gold Award (Top One), 2023
+- People's Scholarship
+- Jin Xiao Electronics Scholarship
+- People's Special Talent Scholarship
 
 # 📖 Educations
 - *2024.08 - (now)*, PhD, ECE, The Hong Kong University of Science and Technology (HKUST), HongKong.
@@ -224,6 +280,3 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 - *2017.09 - 2020.06*, Jiangsu Tianyi High School, WUXI.
 
 
-# 💻 Internships
-- *2025.08 - Now*, Tencent Robotics X Lab, Shenzhen, China
-- *2023.08 - 2023.09*, LightILLUSION, Beijing, China.
