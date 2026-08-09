@@ -28,10 +28,21 @@ redirect_from:
 I had an internship at the <strong>CITE LAB, Nanjing University</strong>, supervised by Prof. <strong><a href="https://scholar.google.com/citations?user=8hZIngIAAAAJ&amp;hl=en">Xun Cao</a></strong> and Prof. <strong><a href="https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html">Shen Qiu</a></strong>
 
 # 💼 Industry Experience
-**Tencent Robotics X, Shenzhen, China** &nbsp; *2025.08 - Present*
-
-- **Project:** VLA/WAM Pretraining for Robot Manipulation
-- Worked with Dr. [Haitao Lin](https://hetolin.github.io/)
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; margin: 1rem 0 2rem;">
+  <div style="display: flex; align-items: center; flex-shrink: 0; width: 240px; aspect-ratio: 16 / 9; padding: 18px; box-sizing: border-box; overflow: hidden; background: #050505; border: 1px solid #d9d9d9; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, .14);">
+    <img src="images/tencent_x.png" alt="Tencent Robotics X" style="display: block; width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 280px;">
+    <p style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: .5rem;">
+      <strong>Tencent Robotics X, Shenzhen, China</strong>
+      <em>2025.08 - Present</em>
+    </p>
+    <ul style="margin: 0;">
+      <li><strong>Project:</strong> VLA/WAM Pretraining for Robot Manipulation</li>
+      <li>Worked with Dr. <a href="https://hetolin.github.io/">Haitao Lin</a></li>
+    </ul>
+  </div>
+</div>
 
 # 🔥 News
 - *2026.06*: &nbsp; 🎉 Our paper is accepted by RSS 2026!
@@ -131,7 +142,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
     </a>
   </p>
 
-  - We introduce GeniWorld, a generalizable interactive world model for robotic manipulation that transforms numerical actions into spatially grounded visual actions through URDF-based rendering. Its autoregressive video prediction framework enables closed-loop interaction with robot policies and human teleoperators, generalizes robustly to unseen environments, and generates diverse trajectories to improve downstream policy performance.
+  - GeniWorld converts robot actions into visual actions for controllable world modeling, enabling closed-loop interaction, robust generalization to unseen environments, and improved downstream policies.
   </div>
 </div>
 
@@ -180,7 +191,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
     </a>
   </p>
 
-  - We propose Pose-VLA, a decoupled paradigm that separates VLA training into a pre-training phase for extracting universal 3D spatial priors in a unified camera-centric space, and a post-training phase for efficient embodiment alignment within robot-specific action space. 
+  - PoseVLA decouples VLA training into universal pose pretraining and embodiment-specific post-training, learning transferable 3D spatial priors for efficient robot policy adaptation.
   </div>
 </div>
 
