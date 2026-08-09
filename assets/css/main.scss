@@ -54,8 +54,20 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    margin-bottom: 1.5rem;
+    padding: 1.25rem;
+    overflow: hidden;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, .06);
+    transition: transform .3s ease, box-shadow .3s ease, border-color .3s ease;
+
+    &:hover {
+        transform: translateY(-2px);
+        border-color: #cbd5e1;
+        box-shadow: 0 8px 25px rgba(15, 23, 42, .10);
+    }
     
 
     .paper-box-image{
@@ -64,8 +76,9 @@
         display: flex;
         width: 100%;
         box-sizing: border-box;
-        order: 2;
+        order: 1;
         > div {
+            position: relative;
             width: 100%;
         }
         img, video {
@@ -73,39 +86,60 @@
             width: 100%;
             max-width: 400px;
             margin: 0 auto;
-            box-shadow: 3px 3px 6px #888;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            box-shadow: 0 3px 10px rgba(15, 23, 42, .10);
             object-fit: cover;
         }
     }
     
     .paper-box-text{
         box-sizing: border-box;
+        width: 100%;
+        margin-top: 1rem;
         max-width: 100%;
-        order: 1;
+        order: 2;
         h1 {
             margin-top: 0;
+            margin-bottom: .65rem;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-            font-size: 1.35rem;
+            font-size: 1.15rem;
             line-height: 1.3;
             a, a:visited {
-                color: #111;
+                color: #1f2937;
                 text-decoration: none;
             }
             a:hover {
-                color: #444;
+                color: #2563eb;
             }
         }
         h1 + p a {
             text-decoration: none;
+        }
+        h1 + p {
+            margin-bottom: .65rem;
+            color: #4b5563;
+            font-size: .92rem;
+            line-height: 1.55;
+        }
+        > p:nth-of-type(2) {
+            margin-bottom: .7rem;
+        }
+        > ul {
+            margin-top: .4rem;
+            margin-bottom: 0;
+            color: #4b5563;
+            font-size: .92rem;
+            line-height: 1.55;
         }
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            flex: 0 0 40%;
+            flex: 0 0 32%;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 32%;
             order: 1;
             > div {
                 max-width: 400px;
@@ -114,9 +148,11 @@
         
         .paper-box-text{
             justify-content: left;
-            flex: 0 0 60%;
-            padding-left: 2em;
-            max-width: 60%;
+            flex: 0 0 68%;
+            width: 68%;
+            margin-top: 0;
+            padding-left: 1.5rem;
+            max-width: 68%;
             order: 2;
         }
 
