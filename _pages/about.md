@@ -281,9 +281,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 - National Gold Award, China International College Students' Innovation Competition, 2023
 - Provincial First Prize, National College Students Electronic Design Competition, 2022
 - Huawei Cup Gold Award (Top One), 2023
-- People's Scholarship
-- Jin Xiao Electronics Scholarship
-- People's Special Talent Scholarship
+- People's Scholarship · Jin Xiao Electronics Scholarship · People's Special Talent Scholarship
 
 # 📖 Educations
 - *2024.08 - (now)*, PhD, ECE, The Hong Kong University of Science and Technology (HKUST), HongKong.
