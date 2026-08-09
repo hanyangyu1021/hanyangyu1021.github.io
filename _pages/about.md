@@ -20,7 +20,7 @@ redirect_from:
 
 👋 I'm currently a Phd Candidate of Hong Kong University of Science and Technology(HKUST), supervised by Prof. <strong><a href="https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=en">Ping Tan</a></strong>
 
-🤔 My research interests include Embodied AI and Generative AI. My google scholar is here <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=rsnb8vMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+🤔 My research interests include Embodied AI and Generative AI.
 
 🙋‍♂️ If you are seeking any form of <strong>academic cooperation</strong>, please feel free to email me at <a href="hyubq@connect.ust.hk">hyubq@connect.ust.hk</a>.
 
