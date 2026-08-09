@@ -54,6 +54,49 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
  
 
 # 📝 Publications 
+<!-- GeniWorld -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src="https://chenghaogu.github.io/GeniWorld/assets/figures/figure1.webp" alt="GeniWorld" width="100%">
+    </div>
+  </div>
+<div class="paper-box-text">
+
+<h1 style="font-weight: bold">
+  <a href="https://chenghaogu.github.io/GeniWorld/" target="_blank">
+    GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions
+  </a>
+</h1>
+
+<p>
+  <a href="https://chenghaogu.github.io/">Chenghao Gu*</a>,
+  <strong><a href="https://hanyangyu1021.github.io/"><font color="#fc8803">Hanyang Yu*</font></a></strong>,
+  <a href="https://eckertzhang.github.io/">Jingbo Zhang</a>,
+  <a href="https://hetolin.github.io/">Haitao Lin</a>,
+  <a href="https://zhangwenyao1.github.io/">Wenyao Zhang</a>,
+  Jinghe Wang,
+  Hanglei Jin,
+  Shuzhao Xie,
+  Jingyan Jiang,
+  Zhi Wang
+</p>
+
+  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
+    <a href="https://chenghaogu.github.io/GeniWorld/">
+      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
+    </a>
+    <a href="https://arxiv.org/abs/2608.06332">
+      <img src="https://img.shields.io/badge/arXiv-2608.06332-b31b1b.svg?style=flat-square" alt="arXiv" />
+    </a>
+  </p>
+
+  - GeniWorld converts robot actions into visual actions for controllable world modeling, enabling closed-loop interaction, robust generalization to unseen environments, and improved downstream policies.
+  </div>
+</div>
+
+
 <!-- MaskWAM -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -104,55 +147,12 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 </div>
 
 
-<!-- GeniWorld -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src="https://chenghaogu.github.io/GeniWorld/assets/figures/figure1.webp" alt="GeniWorld" width="100%">
-    </div>
-  </div>
-<div class="paper-box-text">
-
-<h1 style="font-weight: bold">
-  <a href="https://chenghaogu.github.io/GeniWorld/" target="_blank">
-    GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions
-  </a>
-</h1>
-
-<p>
-  <a href="https://chenghaogu.github.io/">Chenghao Gu</a>,
-  <strong><a href="https://hanyangyu1021.github.io/"><font color="#fc8803">Hanyang Yu</font></a></strong>,
-  <a href="https://eckertzhang.github.io/">Jingbo Zhang</a>,
-  <a href="https://hetolin.github.io/">Haitao Lin</a>,
-  <a href="https://zhangwenyao1.github.io/">Wenyao Zhang</a>,
-  Jinghe Wang,
-  Hanglei Jin,
-  Shuzhao Xie,
-  Jingyan Jiang,
-  Zhi Wang
-</p>
-
-  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
-    <a href="https://chenghaogu.github.io/GeniWorld/">
-      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
-    </a>
-    <a href="https://arxiv.org/abs/2608.06332">
-      <img src="https://img.shields.io/badge/arXiv-2608.06332-b31b1b.svg?style=flat-square" alt="arXiv" />
-    </a>
-  </p>
-
-  - GeniWorld converts robot actions into visual actions for controllable world modeling, enabling closed-loop interaction, robust generalization to unseen environments, and improved downstream policies.
-  </div>
-</div>
-
-
 <!-- Pose-VLA -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">RSS 2026 · Oral Presentation</div>
-      <img src='images/posevla.jpg' alt="PoseVLA" width="100%" style="aspect-ratio: 8 / 5; object-fit: cover;">
+      <img src='images/posevla.jpg' alt="PoseVLA" width="100%" style="aspect-ratio: 5 / 3; object-fit: cover;">
     </div>
   </div>
 <div class="paper-box-text">
