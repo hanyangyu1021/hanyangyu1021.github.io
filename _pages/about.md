@@ -200,6 +200,43 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 </div>
 
 
+<!-- MatchingPolicy -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src="images/matchingpolicy.png" alt="MatchingPolicy" width="100%">
+    </div>
+  </div>
+<div class="paper-box-text">
+
+<h1 style="font-weight: bold">
+  <a href="https://matchingpolicy.github.io/" target="_blank">
+    MatchingPolicy: Correspondence-Aware Policy Enables Cross-Object In-Context Learning
+  </a>
+</h1>
+
+<p>
+  <a href="https://openreview.net/profile?id=%7EQijin_She1">Qijin She*</a>,
+  <strong><a href="https://hanyangyu1021.github.io/"><font color="#fc8803">Hanyang Yu*</font></a></strong>,
+  <a href="https://www.zemingli.com/">Zeming Li</a>,
+  <a href="https://ece.hkust.edu.hk/pingtan">Ping Tan</a>
+</p>
+
+  <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px;">
+    <a href="https://matchingpolicy.github.io/">
+      <img src="https://img.shields.io/badge/Project-Page-4C8BF5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page" />
+    </a>
+    <a href="https://arxiv.org/abs/2608.16715">
+      <img src="https://img.shields.io/badge/arXiv-2608.16715-b31b1b.svg?style=flat-square" alt="arXiv" />
+    </a>
+  </p>
+
+  - MatchingPolicy decouples demonstration-to-scene matching from policy learning and conditions actions on dense semantic correspondences, enabling robust few-shot generalization across unseen objects and novel manipulation scenarios.
+  </div>
+</div>
+
+
 <!-- LM-Gaussian -->
 <div class='paper-box'>
   <div class='paper-box-image'>
