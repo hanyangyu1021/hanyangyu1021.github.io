@@ -101,7 +101,7 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review</div>
+      <div class="badge">CoRL 2026</div>
       <video autoplay muted loop playsinline preload="metadata" width="100%"
              poster="https://hanyangyu1021.github.io/maskwam.github.io/static/images/teaser.png"
              style="aspect-ratio: 16 / 9; object-fit: cover; background: #f1f5f9;"
