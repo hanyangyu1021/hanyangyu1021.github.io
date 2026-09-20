@@ -45,7 +45,8 @@ I had an internship at the <strong>CITE LAB, Nanjing University</strong>, superv
 </div>
 
 # News
-- *2026.06*: &nbsp; 🎉 Our paper is accepted by RSS 2026!
+- *2026.09*: &nbsp; 🎉 One paper is accepted by CoRL 2026!
+- *2026.06*: &nbsp; 🎉 One paper is accepted by RSS 2026!
 - *2024.06*: &nbsp; 🎉 I was awarded as Outstanding Graduate of Nanjing Universtiy.
 - *2024.04*: &nbsp; 🎉 HKPFS get!
 - *2023.12*: &nbsp; 🎉 We won the Gold prize in National College Students Innovation and Entrepreneurship Competition!
